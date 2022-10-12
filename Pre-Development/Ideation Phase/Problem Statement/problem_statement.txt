@@ -1,0 +1,3 @@
+PROBLEM STATEMENT: 
+
+        An inefficient waste management may create serious environmental impacts like infectious diseases, land and water pollution, climate changes. In this design of smart waste management is used for proper disposal and efficiently collection of waste by using a mobile application.
